@@ -2,7 +2,7 @@
 
 # Retail Performance Dashboard
 
-![Retail Performance Dashboard](retaildashboard.png)
+![Retail Performance Dashboard](RetailDashboard.png)
 
 ## The Business
 
